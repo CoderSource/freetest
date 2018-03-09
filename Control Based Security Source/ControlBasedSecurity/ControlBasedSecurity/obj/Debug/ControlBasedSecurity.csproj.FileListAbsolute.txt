@@ -1,0 +1,14 @@
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\bin\Debug\ControlBasedSecurity.exe.config
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\bin\Debug\ControlBasedSecurity.exe
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\bin\Debug\ControlBasedSecurity.pdb
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.csprojResolveAssemblyReference.cache
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.ManagePermissions.resources
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.NewContract.resources
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.PotentialClient.resources
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.Properties.Resources.resources
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.csproj.GenerateResource.Cache
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.csproj.CoreCompileInputs.cache
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.exe
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.pdb
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.ManageRoles1.resources
+C:\Users\cit\Downloads\338-Control Based Security Source\Control Based Security Source\ControlBasedSecurity\ControlBasedSecurity\obj\Debug\ControlBasedSecurity.Form1.resources
